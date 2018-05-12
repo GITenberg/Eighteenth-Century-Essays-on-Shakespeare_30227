@@ -1,0 +1,32 @@
+_repo: Eighteenth-Century-Essays-on-Shakespeare_30227
+_version: 0.1.0
+alternative_title: 18th Century Essays on Shakespeare
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, David Nichol
+    aliases:
+    - Smith, Nichol
+    - Smith, D. Nichol
+    birthdate: 1875
+    deathdate: 1962
+    gutenberg_agent_id: '34451'
+    url: http://www.gutenberg.org/2009/agents/34451
+description: ''
+gutenberg_issued: '2009-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30227'
+  lccn: '04002525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism, Textual'
+- !lcc 'PR'
+- !lcsh 'Shakespeare, William, 1564-1616 -- Criticism and interpretation'
+title: Eighteenth Century Essays on Shakespeare
+url: http://www.gutenberg.org/ebooks/30227
